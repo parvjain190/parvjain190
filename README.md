@@ -1,3 +1,7 @@
+
+[![Gmail Badge](https://img.shields.io/badge/-parvjain1908@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:parvjain1908@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Parv%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parv-jain-14b409266// "Connect on LinkedIn")
+
 - 👋 Hi, I’m @parvjain190
 - 👀 I’m interested in Coding & Photography
 - 🌱 I’m currently learning DS&ML
