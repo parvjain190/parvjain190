@@ -6,7 +6,7 @@
 - 👀 I’m interested in Coding & Photography
 - 🌱 I’m currently learning **Data Scince, Machine Learning and Artificial Intelligence**
 - 💞️ I’m looking to collaborate on Projects for Data Science & Machine Learning
-- 📫 How to reach me **parvjain@1908@gmail.com**
+- 📫 How to reach me **parvjain1908@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
