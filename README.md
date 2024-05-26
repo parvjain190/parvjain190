@@ -27,4 +27,5 @@ You can click the Preview link to take a look at your changes.
 Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis. 
 
 **Mathematics** (Probability, Applied Statistics, Linear Algebra).
+
 **Libraries**: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras.
