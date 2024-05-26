@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Parv%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parv-jain-14b409266// "Connect on LinkedIn")
 
 ---
-I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science
+I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science.I love to learn
+and contribute in every possible way.
 
 ---
 - 👋 Hi, I’m @parvjain190
