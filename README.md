@@ -37,5 +37,5 @@ Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis.
 
 **My Stats**
 
-[![GitHub Stats](https://img.shields.io/github/stats/commit-activity/parvjain190/parvjain190?label=Commit%20Activity&style=for-the-badge)](https://github.com/parvjain190/parvjain190)
+<img src="https://img.shields.io/github/stats/commit-activity/parvjain190/parvjain190?label=Commit%20Activity&style=for-the-badge">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvjain190&theme=tokyonight" width="48%">
