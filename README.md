@@ -33,7 +33,3 @@ Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis.
 
 **Libraries**: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras.
 
----
-**My Stats**
-<img  src="https://github-readme-stats.vercel.app/api?username=parvjain190&show_icons=true&theme=tokyonight" width="48%" align="right">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=parvjain190&theme=tokyoday" width="48%">
