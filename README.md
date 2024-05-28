@@ -20,7 +20,7 @@ parvjain190/parvjain190 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ---
-**Skills** 
+## Skills
 
 **Languages and Tools:**
 
