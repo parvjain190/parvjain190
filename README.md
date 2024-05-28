@@ -19,6 +19,8 @@ and contribute in every possible way.
 parvjain190/parvjain190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+**My Stats**
+<img  src="https://github-readme-stats.vercel.app/api?username=parvjain190&show_icons=true&theme=tokyonight" width="48%" align="right">
 ---
 **Skills** 
 
