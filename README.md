@@ -32,10 +32,3 @@ Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis.
 **Mathematics** (Probability, Applied Statistics, Linear Algebra).
 
 **Libraries**: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras.
-
----
-
-**My Stats**
-
-<img src="https://img.shields.io/github/stats/commit-activity/parvjain190/parvjain190?label=Commit%20Activity&style=for-the-badge"><img src="https://github.com/parvjain190/parvjain190">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parvjain190&theme=tokyonight" width="48%">
