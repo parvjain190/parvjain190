@@ -9,7 +9,7 @@
 ## Hi there, Parv here 👋🏼
 [![Gmail Badge](https://img.shields.io/badge/-parvjain1908@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:parvjain1908@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Parv%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parv-jain-14b409266/ "Connect on LinkedIn")
-[![Instagram Badge](https://img.shields.io/badge/-parv_jain190-c14438?style=flat&logo=Instagram&logoColor=833ab4)](https://www.instagram.com/parv_jain190/ "Connect on Instagram")
+[![Instagram Badge](https://img.shields.io/badge/-parv_jain190-c14438?style=flat&logo=Instagram&logoColor=white&bgColor=c14438)](https://www.instagram.com/parv_jain190/ "Connect on Instagram")
 
 ---
 
