@@ -50,6 +50,3 @@ Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis.
 
 --- 
  
-## Random Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
