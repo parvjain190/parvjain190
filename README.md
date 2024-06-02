@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 **IDEs and Tools**
 
-<a href="https://github.com/Parv-Jain"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg" alt="python" width="40" height="40"/></a>
+<a href="https://github.com/Parv-Jain">
 
 **Data Science**: Data Analysis, Supervised Learning, Unsupervised Learning, Neural Networks and Deep Learning, Data 
 Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis. 
