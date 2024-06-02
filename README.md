@@ -26,6 +26,10 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
+**IDEs and Tools**
+
+<a href="https://github.com/Parv-Jain"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg" alt="python" width="40" height="40"/></a>
+
 **Data Science**: Data Analysis, Supervised Learning, Unsupervised Learning, Neural Networks and Deep Learning, Data 
 Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis. 
 
@@ -38,3 +42,7 @@ Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis.
 **My Stats**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvjain190&theme=tokyonight" width="48%">
+
+---
+
+***
