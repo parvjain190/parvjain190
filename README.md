@@ -6,9 +6,13 @@
 - 💞️ I’m looking to collaborate on Projects for Data Science & Machine Learning
 - 📫 How to reach me **parvjain1908@gmail.com**
 --->
-## Hi there, Nandini here 👋🏼
+## Hi there, Parv here 👋🏼
 [![Gmail Badge](https://img.shields.io/badge/-parvjain1908gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:parvjain1908@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Parv%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parv-jain-14b409266/ "Connect on LinkedIn")
+
+---
+I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science
+
 ---
 ## Skills
 
