@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 **IDEs and Tools**
 
-[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,figma,postman)]<a href="https://github.com/Parv-Jain">
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode)]("https://github.com/Parv-Jain")
 
 ---
 
