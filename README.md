@@ -14,6 +14,13 @@
 I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science. I love to learn and contribute in any and every possible way.
 
 ---
+
+<!-- [![](https://visitcount.itsvg.in/api?id=architj6&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
+
+- 🌟 I’m currently expanding my skill set in various languages and technologies.
+- I'm always up for engaging discussions and exploring new topics. Feel free to share your thoughts, ideas,and let's dive into a captivating conversation! 🗣️💡
+
+![](https://komarev.com/ghpvc/?username=architj6&style=plastic&color=blue)
 ## Skills
 
 **Languages and Tools:**
