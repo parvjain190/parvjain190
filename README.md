@@ -28,7 +28,9 @@ You can click the Preview link to take a look at your changes.
 
 **IDEs and Tools**
 
-<a href="https://github.com/Parv-Jain">
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,figma,postman)]<a href="https://github.com/Parv-Jain">
+
+---
 
 **Data Science**: Data Analysis, Supervised Learning, Unsupervised Learning, Neural Networks and Deep Learning, Data 
 Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis. 
