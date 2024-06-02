@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 **Languages and Tools:**
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+[![My Programming Languages](https://skillicons.dev/icons?i=python)]("https://github.com/Parv-Jain")
 
 **IDEs and Tools**
 
@@ -44,7 +44,3 @@ Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis.
 **My Stats**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvjain190&theme=tokyonight" width="48%">
-
----
-
-***
