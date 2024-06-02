@@ -7,9 +7,9 @@
 - 📫 How to reach me **parvjain1908@gmail.com**
 --->
 ## Hi there, Parv here 👋🏼
-[![Gmail Badge](https://img.shields.io/badge/Mail%20Me-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:parvjain1908@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parv-jain-14b409266/ "Connect on LinkedIn")
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/parv_jain190/ "Connect on Instagram")
+[![Gmail Badge](https://img.shields.io/badge/-parvjain1908@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:parvjain1908@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Parv%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parv-jain-14b409266/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-parv_jain190-c14438?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/parv_jain190/ "Connect on Instagram")
 
 ---
 
