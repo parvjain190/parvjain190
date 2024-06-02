@@ -14,6 +14,8 @@ and contribute in every possible way.
 - 💞️ I’m looking to collaborate on Projects for Data Science & Machine Learning
 - 📫 How to reach me **parvjain1908@gmail.com**
 
+- ![](https://komrev.com/ghpvc/?username=parvjain190&style=plastic&color=blue)
+
 
 <!---
 parvjain190/parvjain190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
