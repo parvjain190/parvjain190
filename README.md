@@ -53,4 +53,7 @@ Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvjain190&theme=tokyonight" width="48%">
 
 --- 
- 
+
+ <p style="text-align: center;">
+  <img src="https://via.placeholder.com/300" alt="Placeholder Image">
+</p>
