@@ -25,9 +25,13 @@ I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing 
 
 ## Skills
 
-**Languages and Tools:**
+**Languages:**
 
-[![My Programming Languages](https://skillicons.dev/icons?i=python,tensorflow)]("https://github.com/Parv-Jain")
+[![My Programming Languages](https://skillicons.dev/icons?i=python)]("https://github.com/Parv-Jain")
+
+**Libraries and Frameworks:**
+
+[![My Development](https://skillicons.dev/icons?i=tensorflow,)]("https://github.com/Parv-Jain")
 
 **Databases and Clouds**
 
