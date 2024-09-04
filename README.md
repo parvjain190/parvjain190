@@ -57,3 +57,6 @@ Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvjain190&theme=tokyonight" width="48%">
 
 --- 
+
+**Random Dev Quotes**
+![ML Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&text=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%20-%20Peter%20Drucker)
