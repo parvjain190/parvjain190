@@ -31,7 +31,7 @@ I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing 
 
 **Libraries and Frameworks:**
 
-[![My Development](https://skillicons.dev/icons?i=tensorflow,matplotlib,pandas,scikit-learn,numpy,keras)](https://github.com/Parv-Jain)
+[![My Development](https://skillicons.dev/icons?i=tensorflow,matplotlib,pandas,scikit)](https://github.com/Parv-Jain)
 
 **Databases and Clouds**
 
