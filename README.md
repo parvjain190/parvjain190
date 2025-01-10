@@ -19,8 +19,6 @@ I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing 
 - 🌟 I’m currently expanding my skill set in various languages and technologies.
 - I'm always up for engaging discussions and exploring new topics. Feel free to share your thoughts, ideas,and let's dive into a captivating conversation! 🗣️💡
 
-[![](https://visitcount.itsvg.in/api?id=parvjain190&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
 ---
 
 ## Skills
