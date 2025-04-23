@@ -37,7 +37,7 @@ I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing 
 
 **IDEs and Tools**
 
-[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,colab)]("https://github.com/Parv-Jain")
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode)]("https://github.com/Parv-Jain")
 
 ---
 
