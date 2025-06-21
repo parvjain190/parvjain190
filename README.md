@@ -33,7 +33,7 @@ I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing 
 
 **Databases and Clouds**
 
-[![My Database and Cloud](https://skillicons.dev/icons?i=github,mysql)]("https://github.com/Parv-Jain")
+[![My Database and Cloud](https://skillicons.dev/icons?i=github,mysql,tableau)]("https://github.com/Parv-Jain")
 
 **IDEs and Tools**
 
